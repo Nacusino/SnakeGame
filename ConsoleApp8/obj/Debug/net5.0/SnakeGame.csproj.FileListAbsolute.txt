@@ -1,0 +1,16 @@
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.exe
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.deps.json
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.runtimeconfig.json
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.runtimeconfig.dev.json
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.dll
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\SnakeGame.pdb
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.AssemblyInfo.cs
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.dll
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\refint\SnakeGame.dll
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.pdb
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\SnakeGame.genruntimeconfig.cache
+C:\Users\ilyap\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ref\SnakeGame.dll
