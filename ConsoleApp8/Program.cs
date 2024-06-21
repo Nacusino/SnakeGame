@@ -15,8 +15,8 @@ namespace SnakeGame
 
             Console.CursorVisible = false;
             Console.Title = "Snake";
-            Console.SetWindowSize(20, 10);
-            Console.SetBufferSize(20, 12);
+            Console.SetWindowSize(20, 12);
+            Console.SetBufferSize(20, 14);
             Console.ForegroundColor = ConsoleColor.White;
 
             Snake snake = new Snake();
